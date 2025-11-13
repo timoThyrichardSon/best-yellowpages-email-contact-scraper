@@ -1,0 +1,8 @@
+# Sample input ideas for running the scraper.
+# These are NOT parsed directly by the tool, but can be used as a reference.
+
+dentist, Los Angeles, CA
+coffee shop, New York, NY
+plumber, Chicago, IL
+electrician, Houston, TX
+restaurant, Seattle, WA
