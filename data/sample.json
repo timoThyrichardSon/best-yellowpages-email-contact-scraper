@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Sunrise Dental Care",
+    "address": "456 Oak Ave, Los Angeles, CA 90001",
+    "phone": "(323) 555-6789",
+    "website": "https://sunrisedental.com",
+    "emails": [
+      "contact@sunrisedental.com"
+    ],
+    "socialmedia": {
+      "linkedin": [
+        "Not Found"
+      ],
+      "facebook": [
+        "https://facebook.com/sunrisedental"
+      ],
+      "twitter": [
+        "https://twitter.com/sunrisedental"
+      ],
+      "tiktok": [
+        "Not Found"
+      ],
+      "pinterest": [
+        "Not Found"
+      ],
+      "instagram": [
+        "https://instagram.com/sunrisedental"
+      ]
+    }
+  },
+  {
+    "name": "Downtown Coffee Roasters",
+    "address": "123 Main St, New York, NY 10001",
+    "phone": "(212) 555-1234",
+    "website": "https://downtowncoffee.example",
+    "emails": [
+      "hello@downtowncoffee.example",
+      "support@downtowncoffee.example"
+    ],
+    "socialmedia": {
+      "linkedin": [
+        "https://www.linkedin.com/company/downtown-coffee-roasters"
+      ],
+      "facebook": [
+        "https://www.facebook.com/downtowncoffee"
+      ],
+      "twitter": [
+        "Not Found"
+      ],
+      "tiktok": [
+        "Not Found"
+      ],
+      "pinterest": [
+        "https://www.pinterest.com/downtowncoffee"
+      ],
+      "instagram": [
+        "https://www.instagram.com/downtowncoffee"
+      ]
+    }
+  }
+]
